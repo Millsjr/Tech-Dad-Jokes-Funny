@@ -55,3 +55,10 @@ Put on some spam block for protection so they can safely surf the net while catc
 ### What are computers' favorite snacks?
 
 Microchips, phish sticks, and cookies. But just a few bytes of each.
+
+
+### How do you help JS errors?
+
+You console them!
+
+
